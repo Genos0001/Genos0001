@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Genos0001
 - 👀 I’m interested in learning further
 - 🌱 I’m currently learning python basics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  E-mail: genosgithub@gmail.com
 
 <!---
