@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my proficiency in python programming
 - Learning Game development in Unity
 - Learning UI/UX along with Web development with proficiency in HTML, CSS and Javascript
-- 📫 How to reach me  E-mail: genosgithub@gmail.com
+- 📫 How to reach me  E-mail: sayansadhu130504@gmail.com
 
 <!---
 Genos0001/Genos0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
