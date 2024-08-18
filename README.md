@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Genos0001
 - 👀 I’m interested in learning further
-- 🌱 I’m currently learning python basics
+- 🌱 I’m currently working on my proficiency in python programming
+- Learning Game development in Unity
+- Learning UI/UX along with Web development with proficiency in HTML, CSS and Javascript
 - 📫 How to reach me  E-mail: genosgithub@gmail.com
 
 <!---
